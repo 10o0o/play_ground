@@ -24,7 +24,5 @@ int dy[4] = {0, 0, 1, -1};
 int main() {
   FASTIO;
 
-  cout << "hi" << endl;
-
   return 0;
 }
